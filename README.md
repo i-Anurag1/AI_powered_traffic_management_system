@@ -1,6 +1,12 @@
 
 
-🚦 Advanced Traffic Control System  
+
+Python - AI processing and backend logic  
+Raspberry Pi and STM32 - Controls traffic signals and sensor operations  
+OpenCV - Vehicle and pedestrian detection  
+TensorFlow - AI-driven congestion prediction  
+IoT Sensors and Cameras - Real-time traffic data collection  
+Flask or FastAPI - Backend API for dashboard comm🚦 Advanced Traffic Control System  
 
 📖 Overview  
 
@@ -11,23 +17,14 @@ The Advanced Traffic Control System is an AI-powered, IoT-enabled, and blockchai
 ✅ AI-Based Adaptive Traffic Signals – Uses machine learning TensorFlow to adjust signal durations dynamically based on vehicle density.  
 ✅ Real-Time Traffic Monitoring – IoT cameras and sensors track traffic congestion and pedestrian movement.  
 ✅ Dynamic Lane Allocation – Smart LED road markings and variable message signs adjust lane configurations in real time.  
-✅ Emergency Vehicle Prioritization – RFID and GPS tracking ensure ambulances and fire trucks get priority at intersections.  
-✅ Blockchain for Secure Data Sharing – Ensures tamper-proof, decentralized storage of traffic data.  
+✅ Emergency Vehicle Prioritization – RFID and GPS tracking ensure ambulances and fire trucks get priority at intersections.   
 ✅ Cloud-Based Predictive Analytics – AI-driven forecasting optimizes traffic signals based on historical and real-time data.  
 ✅ Traffic Control Dashboard – A React.js-based UI designed in Figma provides real-time monitoring and manual control for traffic authorities.  
 
 🛠️ Technologies Used  
 
-Technology - Purpose  
-Python - AI processing and backend logic  
-Raspberry Pi and STM32 - Controls traffic signals and sensor operations  
-OpenCV - Vehicle and pedestrian detection  
-TensorFlow - AI-driven congestion prediction  
-IoT Sensors and Cameras - Real-time traffic data collection  
-Blockchain Hyperledger - Secure, decentralized traffic data sharing  
-Flask or FastAPI - Backend API for dashboard communication  
-React.js - Frontend for traffic monitoring  
-Google Maps API - City map integration for congestion tracking  
+Technology - Purpose  unication  
+React.js - Frontend for traffic monitoring   
 
 📊 How It Works  
 
